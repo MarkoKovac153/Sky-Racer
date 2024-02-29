@@ -1,23 +1,35 @@
 # Sky-Racer
 
-SkyRacer is an exciting game developed in C++ using OpenGL, where players control a character moving along a dynamic track, collecting coins while navigating through challenging obstacles. The game incorporates manually implemented shading and lighting techniques to enhance the visual experience.
+SkyRacer is a project developed in C++ using OpenGL, where players control a plane moving along a static track, collecting coins while navigating through obstacles.
 
 ## Features
 
 - **Coin Collection**: Collect coins scattered along the track to earn points and increase your score.
-- **Obstacles**: Encounter various obstacles that challenge your reflexes and navigation skills.
-- **Manual Shading and Lighting**: Experience immersive visuals with manually implemented shading and lighting effects.
-- **Responsive Controls**: Precisely control your character's movement with responsive left and right controls.
+- **Obstacles**: Red cube with its points stretched along the y-axis, randomly generated on either the middle, left or right of the track
+- **Responsive Controls**: Precisely control 
 
-## Controls
+# Controls
 
-- **Left Arrow Key**: Move the character to the left.
-- **Right Arrow Key**: Move the character to the right.
+This document outlines the controls for the game.
+
+| Key(s)                  | Function                                              |
+|-------------------------|-------------------------------------------------------|
+| Left arrow or "A"       | Move player left                                      |
+| Right arrow or "D"      | Move player right                                     |
+| Up arrow or "W"         | Increase player speed                                 |
+| Down arrow or "S"       | Decrease player speed                                 |
+| "M"                     | Display game controls                                 |
+| "Q"                     | Set camera view above player, following around track  |
+| "E"                     | Set camera view to right side of player               |
+| "T"                     | Set camera view to top view above the track           |
+| "Y"                     | Set camera view to top view above the clouds          |
+| Spacebar                | Set camera to free cam mode                           |
 
 ## Screenshots
 
 ![Screenshot 1](Menu.png)
-![Screenshot 2]()
+![Screenshot 2](SideOnView.png)
+![Screenshot 2](TopDownView.png)
 
 
 
