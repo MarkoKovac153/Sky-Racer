@@ -16,7 +16,7 @@ SkyRacer is an exciting game developed in C++ using OpenGL, where players contro
 
 ## Screenshots
 
-![Screenshot 1]()
+![Screenshot 1](Menu.png)
 ![Screenshot 2]()
 
 
