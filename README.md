@@ -6,7 +6,7 @@ SkyRacer is a project developed in C++ using OpenGL, where players control a pla
 
 - **Coin Collection**: Collect coins scattered along the track to earn points and increase your score.
 - **Obstacles**: Red cube with its points stretched along the y-axis, randomly generated on either the middle, left or right of the track
-- **Responsive Controls**: Precisely control 
+- **Responsive Controls**: Repsonsive controls for moving the player and changing the camera angles
 
 # Controls
 
